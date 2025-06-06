@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Streamlit cache and temp files
+.streamlit/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# VS Code settings
+.vscode/
+
+# Python environment files
+*.env
+*.venv
+.Python
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Ignore Python wheel files
+*.whl
