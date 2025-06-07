@@ -220,15 +220,16 @@ st.markdown(
         While it strives to understand your feelings, remember that emotions are complex and nuanced — 
         no AI can fully capture the depth of human experience. Use this app as a fun guide, not a diagnosis. Please provide your feedback via gmail: koustavchak24@gmail.com <br><br>
          If you liked it, Let's connect via: <br><br>
-    <a href="https://twitter.com/yourhandle" target="_blank" style="color:#40e0d0; margin:0 10px; text-decoration:none;">
-            <i class="fab fa-twitter fa-lg"></i> Twitter
-        </a>
-        <a href="https://github.com/yourhandle" target="_blank" style="color:#40e0d0; margin:0 10px; text-decoration:none;">
+        <a href="https://github.com/RonyCCE445" target="_blank" style="color:#40e0d0; margin:0 10px; text-decoration:none;">
             <i class="fab fa-github fa-lg"></i> GitHub
         </a>
-        <a href="https://linkedin.com/in/yourhandle" target="_blank" style="color:#40e0d0; margin:0 10px; text-decoration:none;">
+        <a href="https://www.linkedin.com/in/koustav-chakraborty-642b02247/" target="_blank" style="color:#40e0d0; margin:0 10px; text-decoration:none;">
             <i class="fab fa-linkedin fa-lg"></i> LinkedIn
-        </a><br><br>
+        </a>
+         <a href="https://www.instagram.com/a_fakir_in_disguise/" target="_blank" style="color:#40e0d0; margin:0 10px; text-decoration:none;">
+            <i class="fab fa-instagram fa-lg"></i> Instagram
+        </a>
+        <br><br>
         Stay curious, stay kind! 😊
 
         
