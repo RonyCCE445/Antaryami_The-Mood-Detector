@@ -2,3 +2,4 @@ streamlit #for UI
 transformers #for Hugging Face Models
 torch #backend for transformers
 pandas #for barchart
+plotly #for rader chart
