@@ -5,10 +5,6 @@ A simple and interactive web app built with [Streamlit](https://streamlit.io/) a
 
 ---
 
-## Demo
-
-[Live Demo on Streamlit Cloud](https://your-streamlit-app-url)
-
 ---
 
 ## Features
